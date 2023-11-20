@@ -1,6 +1,6 @@
 # Decision Tree Model From Scratch
 ## Latar Belakang
-Dalam proyek ini, saya mengembangkan algoritma Decision Tree tanpa menggunakan library atau framework yang sudah ada, tetapi membangunnya dari awal menggunakan bahasa pemrograman Python.
+Dalam proyek ini, saya mengembangkan algoritma Decision Tree tanpa menggunakan library atau framework yang sudah ada, tetapi membangunnya dari awal menggunakan bahasa pemrograman Pythons.
 
 Decision Tree adalah salah satu algoritma machine learning yang populer dan digunakan untuk tugas klasifikasi dan regresi. Tujuannya adalah untuk membuat model prediksi yang dapat mempelajari pola dari data pelatihan dan menghasilkan keputusan atau prediksi berdasarkan fitur-fitur yang ada. Dalam pengantar ini, saya akan menjelaskan langkah-langkah utama dalam membangun Decision Tree dari awal. Pertama, kita perlu mempersiapkan data pelatihan yang terdiri dari contoh-contoh dengan fitur-fitur dan label kelas yang terkait.
 
