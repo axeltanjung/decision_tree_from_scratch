@@ -1,4 +1,4 @@
-# Decision Tree Model From Scratcha
+# Decision Tree Model From Scratch
 ## Latar Belakang
 Dalam proyek ini, saya mengembangkan algoritma Decision Tree tanpa menggunakan library atau framework yang sudah ada, tetapi membangunnya dari awal menggunakan bahasa pemrograman Pythons.
 
